@@ -1,7 +1,10 @@
+import AddTodo from '../containers/AddTodo'
+
 function App() {
   return (
     <div>
-      Hello World
+      // Appコンポーネント内にAddTodoコンポーネントを描画します。
+      <AddTodo />
     </div>
   );
 }
