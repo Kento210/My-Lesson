@@ -1,6 +1,13 @@
 # 勉強用レポジトリ
-勉強で環境を立てて検証したりするレポジトリです。
+勉強で環境を立てて検証したりするレポジトリです。</br>
+pagesブランチでは試しに公開したいものを設定しています
 
-### 3/19追加
-[Reduxの勉強（Todoアプリの制作）](https://sot-kento.notion.site/Redux-38abcee8dc8948fc9e826fcfc3f6b2b8?pvs=4)
-ディレクトリ：./Redux
+### 項目
+Reduxの勉強（Todoアプリの制作）
+ディレクトリ：./Redux</br>
+
+goの勉強環境
+ディレクトリ：./go-gin</br>
+
+AR.jsの勉強環境
+ディレクトリ：./AR</br>
